@@ -12,7 +12,7 @@ class Ideone
 				if(a>0)
 					System.out.println("Positive");
 				else if(a<0)
-					System.out.println("Negitive");
+					System.out.println("Negative");
 				else
 					System.out.println("Zero");
  
